@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+backend/.chroma/
+
+# node
+node_modules/
+dist/
+*.tsbuildinfo

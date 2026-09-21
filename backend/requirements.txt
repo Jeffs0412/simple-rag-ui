@@ -1,0 +1,5 @@
+fastapi==0.122.0
+uvicorn[standard]==0.53.0
+openai==3.16.2
+chromadb==1.5.9
+pydantic-settings==2.15.0
