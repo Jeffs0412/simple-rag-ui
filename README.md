@@ -46,6 +46,9 @@ wrong for a server. This version:
 
 ## Setup
 
+See **[RUNNING.md](RUNNING.md)** for the full run/stop reference, ports, troubleshooting and
+how the embedding cache behaves. The short version:
+
 Two processes. Backend first:
 
 ```bash
